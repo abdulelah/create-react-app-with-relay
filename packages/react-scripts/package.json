@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "n-relay-react-scripts",
   "version": "0.6.1",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "description": "Configuration and scripts for Create React App, patched to use Relay.",
+  "repository": "neson/create-react-app-with-relay",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/neson/create-react-app-with-relay/issues"
   },
   "files": [
     ".babelrc",

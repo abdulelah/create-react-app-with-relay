@@ -125,6 +125,7 @@ module.exports = {
         query: {
           babelrc: false,
           presets: [require.resolve('babel-preset-react-app')],
+          plugins: [require.resolve('../plugins/babelRelayPlugin')],
         },
         // @remove-on-eject-end
       },
